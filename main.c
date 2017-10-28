@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main(){
-  s="hello java. no!...";
+  s="hello java. no!...aaaaaaaaaaa";
   printf("%s",s);
 }
